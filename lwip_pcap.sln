@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lwip_pcap", "lwip_pcap\lwip_pcap.vcxproj", "{E1EDC811-1F9E-4E49-BE0F-74B686FC6CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1EDC811-1F9E-4E49-BE0F-74B686FC6CAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1EDC811-1F9E-4E49-BE0F-74B686FC6CAA}.Debug|x86.Build.0 = Debug|Win32
+		{E1EDC811-1F9E-4E49-BE0F-74B686FC6CAA}.Release|x86.ActiveCfg = Release|Win32
+		{E1EDC811-1F9E-4E49-BE0F-74B686FC6CAA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABB7572-AA14-4874-B7D8-44B455C6991A}
+	EndGlobalSection
+EndGlobal
